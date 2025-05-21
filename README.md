@@ -38,7 +38,6 @@ This project investigates how physicochemical properties of wine influence its q
 - Time series decomposition, seasonal adjustments, and stationarity tests are performed.
 - **Hypothesis Testing**:
   - *T-test*: Quality difference between red and white wines
-  - *-test*: Quality difference between red and white wines
   - *ANOVA*: Variation in alcohol content across quality levels
   - *Chi-Square Test*: Association between wine type and quality categories
 
